@@ -1,0 +1,14 @@
+Demonstração com respostas fixas.
+
+ANOTAÇÃO
+Em uma pilha, o último item inserido sai primeiro. Em Python, append() insere no fim da lista e pop() retira e devolve o último item.
+
+RESUMO
+A pilha segue a ordem LIFO. append() insere no fim e pop() retira o último item.
+
+QUIZ
+1. Inserimos A e depois B. Qual valor pop() devolve?
+Gabarito: B, pois foi o último item inserido.
+
+2. Como colocar C no topo de uma pilha representada por uma lista?
+Gabarito: pilha.append("C"), pois o topo corresponde ao fim da lista.
